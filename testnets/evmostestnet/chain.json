@@ -118,11 +118,6 @@
   },
   "explorers": [
     {
-      "kind": "Mintscan",
-      "url": "https://mintscan.io/evmos-testnet",
-      "tx_page": "https://mintscan.io/evmos-testnet/txs/${txHash}"
-    },
-    {
       "kind": "NodesGuru",
       "url": "https://testnet.evmos.explorers.guru/",
       "tx_page": "https://testnet.evmos.explorers.guru/transaction/${txHash}"

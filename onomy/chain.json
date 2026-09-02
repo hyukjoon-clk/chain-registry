@@ -85,11 +85,6 @@
         "provider": "WhisperNode 🤐"
       },
       {
-        "id": "00ce2f84f6b91639a7cedb2239e38ffddf9e36de",
-        "address": "44.195.221.88:26656",
-        "provider": "cosmostation"
-      },
-      {
         "id": "ebc272824924ea1a27ea3183dd0b9ba713494f83",
         "address": "onomy-mainnet-peer.autostake.com:27556",
         "provider": "AutoStake 🛡️ Slash Protected"
@@ -120,12 +115,6 @@
     "grpc": []
   },
   "explorers": [
-    {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/onomy-protocol",
-      "tx_page": "https://www.mintscan.io/onomy-protocol/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/onomy-protocol/accounts/${accountAddress}"
-    },
     {
       "kind": "staking-explorer.com",
       "url": "https://staking-explorer.com/explorer/onomy",

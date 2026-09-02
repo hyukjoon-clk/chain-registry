@@ -142,12 +142,6 @@
   },
   "explorers": [
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/stafi",
-      "tx_page": "https://www.mintscan.io/stafi/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/stafi/accounts/${accountAddress}"
-    },
-    {
       "kind": "ezstaking",
       "url": "https://ezstaking.app/stafihub",
       "tx_page": "https://ezstaking.app/stafihub/txs/${txHash}",

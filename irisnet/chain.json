@@ -97,12 +97,6 @@
       "account_page": "https://ezstaking.app/irisnet/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/iris",
-      "tx_page": "https://www.mintscan.io/iris/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/iris/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://ping.pub/iris-network",
       "tx_page": "https://ping.pub/iris-network/tx/${txHash}"

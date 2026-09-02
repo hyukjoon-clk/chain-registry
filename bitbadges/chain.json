@@ -130,12 +130,6 @@
   },
   "explorers": [
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/bitbadges",
-      "tx_page": "https://www.mintscan.io/bitbadges/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/bitbadges/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://explorer.bitbadges.io/BitBadges%20Mainnet",
       "tx_page": "https://explorer.bitbadges.io/BitBadges%20Mainnet/txs/${txHash}",

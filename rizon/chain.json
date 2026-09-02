@@ -130,12 +130,6 @@
       "account_page": "https://ezstaking.app/rizon/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/rizon",
-      "tx_page": "https://www.mintscan.io/rizon/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/rizon/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://ping.pub/rizon",
       "tx_page": "https://ping.pub/rizon/tx/${txHash}"

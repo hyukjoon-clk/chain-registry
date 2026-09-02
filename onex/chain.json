@@ -60,22 +60,12 @@
   "peers": {
     "seeds": [
       {
-        "id": "fdbeb23dab3a697751edcc723480723e8e788431",
-        "address": "141.95.85.153:17400",
-        "provider": "cosmostation"
-      },
-      {
         "id": "41caa4106f68977e3a5123e56f57934a2d34a1c1",
         "address": "95.214.53.20:27386",
         "provider": "autostake"
       }
     ],
     "persistent_peers": [
-      {
-        "id": "2f96d16645fd52dba217fb477a66c7b637fbb3c7",
-        "address": "52.79.199.137:26656",
-        "provider": "cosmostation"
-      },
       {
         "id": "2bd4696ae55870d031ff355460a57c8770b8747e",
         "address": "149.102.128.71:26756",

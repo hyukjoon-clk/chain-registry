@@ -175,11 +175,6 @@
       "account_page": "https://nillion.explorers.guru/account/${accountAddress}"
     },
     {
-      "url": "https://www.mintscan.io/nillion",
-      "tx_page": "https://www.mintscan.io/nillion/tx/${txHash}",
-      "account_page": "https://www.mintscan.io/nillion/address/${accountAddress}"
-    },
-    {
       "kind": "NodeStake",
       "url": "https://explorer.nodestake.org/nillion/",
       "tx_page": "https://explorer.nodestake.org/nillion/txs/${txHash}",

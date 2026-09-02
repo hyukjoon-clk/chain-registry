@@ -111,12 +111,6 @@
     ]
   },
   "explorers": [
-    {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/finschia-testnet",
-      "tx_page": "https://www.mintscan.io/finschia-testnet/tx/${txHash}",
-      "account_page": "https://www.mintscan.io/finschia-testnet/address/${accountAddress}"
-    }
   ],
   "images": [
     {

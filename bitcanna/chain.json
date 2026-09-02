@@ -479,12 +479,6 @@
       "tx_page": "https://ping.pub/bitcanna/tx/${txHash}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/bitcanna/",
-      "tx_page": "https://www.mintscan.io/bitcanna/txs/${txHash}",
-      "account_page": "https://www.mintscan.io/bitcanna/account/${accountAddress}"
-    },
-    {
       "kind": "🔥STAVR🔥 Explorer",
       "url": "https://explorer.stavr.tech/Bitcanna",
       "tx_page": "https://explorer.stavr.tech/Bitcanna/txs/${txHash}",

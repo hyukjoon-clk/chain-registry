@@ -200,12 +200,6 @@
       "account_page": "https://ezstaking.app/nyx/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/nyx",
-      "tx_page": "https://www.mintscan.io/nyx/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/nyx/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://ping.pub/nyx",
       "tx_page": "https://ping.pub/nyx/tx/${txHash}"

@@ -304,12 +304,6 @@
       "account_page": "https://ezstaking.app/comdex/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/comdex",
-      "tx_page": "https://www.mintscan.io/comdex/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/comdex/accounts/${accountAddress}"
-    },
-    {
       "kind": "staking-explorer.com",
       "url": "https://staking-explorer.com/explorer/comdex",
       "tx_page": "https://staking-explorer.com/transaction.php?chain=comdex&tx=${txHash}",

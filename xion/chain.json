@@ -112,11 +112,6 @@
         "provider": "Blockval"
       },
       {
-        "id": "d27cde0c62024a05d46fe375cb91956584fa69a4",
-        "address": "15.235.115.151:18400",
-        "provider": "Cosmostation"
-      },
-      {
         "id": "c36b658e1e2725542faa14063bfe4f9659286406",
         "address": "157.90.33.62:30656",
         "provider": "LiveRaveN"

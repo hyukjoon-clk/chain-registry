@@ -297,12 +297,6 @@
       "tx_page": "https://exp.utsa.tech/teritori/tx/${txHash}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/teritori",
-      "tx_page": "https://www.mintscan.io/teritori/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/teritori/accounts/${accountAddress}"
-    },
-    {
       "kind": "TC Network",
       "url": "https://explorer.tcnetwork.io/teritori",
       "tx_page": "https://explorer.tcnetwork.io/teritori/transaction/${txHash}"

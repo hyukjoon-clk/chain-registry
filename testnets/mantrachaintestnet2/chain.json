@@ -89,20 +89,12 @@
       {
         "address": "https://api.dukong.mantrachain.io",
         "provider": "MANTRACHAIN"
-      },
-      {
-        "address": "https://lcd-office.cosmostation.io/mantra-testnet/",
-        "provider": "Cosmostation"
       }
     ],
     "grpc": [
       {
         "address": "https://grpc.dukong.mantrachain.io",
         "provider": "MANTRACHAIN"
-      },
-      {
-        "address": "grpc-office-mantra.cosmostation.io:443",
-        "provider": "Cosmostation"
       }
     ],
     "evm-http-jsonrpc": [

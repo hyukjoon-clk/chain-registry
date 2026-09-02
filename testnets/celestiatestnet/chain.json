@@ -46,10 +46,5 @@
     ]
   },
   "explorers": [
-    {
-      "kind": "Mintscan",
-      "url": "https://mintscan.io/celestia-incentivized-testnet",
-      "tx_page": "https://mintscan.io/celestia-incentivized-testnet/txs/${txHash}"
-    }
   ]
 }

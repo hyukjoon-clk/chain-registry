@@ -180,12 +180,6 @@
       "account_page": "https://ezstaking.app/assetmantle/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/asset-mantle",
-      "tx_page": "https://www.mintscan.io/asset-mantle/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/asset-mantle/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://explorer.postcapitalist.io/AssetMantle",
       "tx_page": "https://explorer.postcapitalist.io/AssetMantle/tx/${txHash}"

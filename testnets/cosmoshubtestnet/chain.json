@@ -151,11 +151,6 @@
   },
   "explorers": [
     {
-      "kind": "Mintscan",
-      "url": "https://mintscan.io/cosmoshub-testnet",
-      "tx_page": "https://mintscan.io/cosmoshub-testnet/txs/${txHash}"
-    },
-    {
       "kind": "Big Dipper",
       "url": "https://explorer.theta-testnet.polypore.xyz/",
       "tx_page": "https://explorer.theta-testnet.polypore.xyz/transactions/${txHash}"

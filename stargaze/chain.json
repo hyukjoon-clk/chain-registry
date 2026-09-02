@@ -333,12 +333,6 @@
       "account_page": "https://ezstaking.app/stargaze/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/stargaze/",
-      "tx_page": "https://www.mintscan.io/stargaze/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/stargaze/accounts/${accountAddress}"
-    },
-    {
       "kind": "ping.pub",
       "url": "https://ping.pub/stargaze",
       "tx_page": "https://ping.pub/stargaze/tx/${txHash}"

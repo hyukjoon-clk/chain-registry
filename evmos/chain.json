@@ -75,11 +75,6 @@
   "peers": {
     "seeds": [
       {
-        "id": "7aa31684d201f8ebc0b1e832d90d7490345d77ee",
-        "address": "52.10.99.253:26656",
-        "provider": "Cosmostation"
-      },
-      {
         "id": "5740e4a36e646e80cc5648daf5e983e5b5d8f265",
         "address": "54.39.18.27:26656",
         "provider": "Figment"
@@ -126,11 +121,6 @@
       }
     ],
     "persistent_peers": [
-      {
-        "id": "7aa31684d201f8ebc0b1e832d90d7490345d77ee",
-        "address": "52.10.99.253:26656",
-        "provider": "Cosmostation"
-      },
       {
         "id": "5740e4a36e646e80cc5648daf5e983e5b5d8f265",
         "address": "54.39.18.27:26656",
@@ -419,12 +409,6 @@
       "url": "https://ezstaking.app/evmos",
       "tx_page": "https://ezstaking.app/evmos/txs/${txHash}",
       "account_page": "https://ezstaking.app/evmos/account/${accountAddress}"
-    },
-    {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/evmos",
-      "tx_page": "https://www.mintscan.io/evmos/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/evmos/accounts/${accountAddress}"
     },
     {
       "kind": "blockscout",

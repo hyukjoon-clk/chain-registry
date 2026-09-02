@@ -225,12 +225,6 @@
       "tx_page": "https://ping.pub/bitsong/tx/${txHash}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/bitsong",
-      "tx_page": "https://www.mintscan.io/bitsong/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/bitsong/accounts/${accountAddress}"
-    },
-    {
       "kind": "staking-explorer.com",
       "url": "https://staking-explorer.com/explorer/bitsong",
       "tx_page": "https://staking-explorer.com/transaction.php?chain=bitsong&tx=${txHash}",

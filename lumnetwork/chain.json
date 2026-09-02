@@ -119,11 +119,6 @@
         "id": "fbaeeff89ec94a4f6c4a2a61e24af7d06b3be0c8",
         "address": "46.166.140.180:26656",
         "provider": "simply staking"
-      },
-      {
-        "id": "433c60a5bc0a693484b7af26208922b84773117e",
-        "address": "34.209.132.0:26656",
-        "provider": "cosmostation"
       }
     ]
   },
@@ -209,12 +204,6 @@
       "url": "https://ezstaking.app/lumnetwork",
       "tx_page": "https://ezstaking.app/lumnetwork/txs/${txHash}",
       "account_page": "https://ezstaking.app/lumnetwork/account/${accountAddress}"
-    },
-    {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/lum",
-      "tx_page": "https://www.mintscan.io/lum/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/lum/accounts/${accountAddress}"
     },
     {
       "kind": "staking-explorer.com",

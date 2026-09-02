@@ -199,12 +199,6 @@
       "account_page": "https://explorer.cudos.org/accounts/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/cudos",
-      "tx_page": "https://www.mintscan.io/cudos/transactions/${txHash}",
-      "account_page": "https://www.mintscan.io/cudos/accounts/${accountAddress}"
-    },
-    {
       "kind": "staking-explorer.com",
       "url": "https://staking-explorer.com/explorer/cudos",
       "tx_page": "https://staking-explorer.com/transaction.php?chain=cudos&tx=${txHash}",

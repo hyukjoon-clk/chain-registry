@@ -47,12 +47,6 @@
       "account_page": "https://passage.aneka.io/accounts/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/passage",
-      "tx_page": "https://www.mintscan.io/passage/txs/${txHash}",
-      "account_page": "https://www.mintscan.io/passage/account/${accountAddress}"
-    },
-    {
       "kind": "ezstaking",
       "url": "https://ezstaking.app/passage",
       "tx_page": "https://ezstaking.app/passage/txs/${txHash}",

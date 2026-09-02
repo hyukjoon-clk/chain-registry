@@ -293,12 +293,6 @@
       "account_page": "https://ezstaking.app/kyve/account/${accountAddress}"
     },
     {
-      "kind": "mintscan",
-      "url": "https://www.mintscan.io/kyve",
-      "tx_page": "https://www.mintscan.io/kyve/txs/${txHash}",
-      "account_page": "https://www.mintscan.io/kyve/account/${accountAddress}"
-    },
-    {
       "kind": "staking-explorer.com",
       "url": "https://staking-explorer.com/explorer/kyve",
       "tx_page": "https://staking-explorer.com/transaction.php?chain=kyve&tx=${txHash}",
